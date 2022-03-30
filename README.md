@@ -8,8 +8,10 @@
  
  git https://github.com/luccasBB01/tl-wn821n
  
- sudo cp tl-wn821n /rtl8192eu-linux-driver
+ cd tl-wn821n.sh
+  
+ sudo cp tl-wn821n /home ou root/"nome do usuário"/rtl8192eu-linux-driver
  
- cd rtl8192eu-linux-driver
+ cd /home ou root/"nome do usuário"/rtl8192eu-linux-driver
  
  sudo ./tl-wn821n
