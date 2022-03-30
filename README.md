@@ -6,7 +6,7 @@
  
  git clone https://github.com/Mange/rtl8192eu-linux-driver
  
- https://github.com/luccasBB01/tl-wn821n
+ git https://github.com/luccasBB01/tl-wn821n
  
  sudo cp tl-wn821n /rtl8192eu-linux-driver
  
